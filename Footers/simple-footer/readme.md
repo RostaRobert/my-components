@@ -1,0 +1,3 @@
+Egyszerű footer
+--------------------------
+Simple footer
